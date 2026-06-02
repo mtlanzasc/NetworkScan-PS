@@ -1,5 +1,5 @@
 # NetworkScan-PS
-PowerShell Code NetworkScan | Código de Escaneo de Red Con PowerShell
+PowerShell Code NetworkScan | Código de Escaneo de Red con PowerShell
 
 Documentacion disponible en dos idiomas | Documentation available in two languages:
 
