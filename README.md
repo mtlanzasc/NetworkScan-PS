@@ -8,4 +8,4 @@ Documentacion disponible en dos idiomas | Documentation available in two languag
 
 Script principal| Main script:
 
- [`Network Scan PS.ps1]
+ [Network Scan PS.ps1]
